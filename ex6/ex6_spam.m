@@ -28,7 +28,7 @@ clear ; close all; clc
 %  complete the code in processEmail.m to produce a word indices vector
 %  for a given email.
 
-fprintf('\nPreprocessing sample email (emailSample1.txt)\n');
+fprintf('\nPreprocessing sample of email (emailSample1.txt)\n');
 
 % Extract Features
 file_contents = readFile('emailSample1.txt');
